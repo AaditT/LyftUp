@@ -1,5 +1,5 @@
 # LyftUp
-![Logo](img/ambulance.jpg = 250x250)
+![Logo](img/ambulance.jpg | width=100)
 [![N|Solid](http://www.d-toi.com/images/scannermouse_livedemo_button.png)](https://aqueous-coast-83490.herokuapp.com)
 
 by Aadit Trivedi and Srihari Nanniyur
