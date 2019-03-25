@@ -1,4 +1,6 @@
 # LyftUp
+[![N|Solid](http://www.d-toi.com/images/scannermouse_livedemo_button.png)](https://aqueous-coast-83490.herokuapp.com)
+
 by Aadit Trivedi and Srihari Nanniyur
 
 ## Why do we need LyftUp?
