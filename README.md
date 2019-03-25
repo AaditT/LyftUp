@@ -1,4 +1,5 @@
 # LyftUp
+<img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="400" height="790">
 ![Logo](img/ambulance.jpg){:height="50%" width="50%"}
 [![N|Solid](http://www.d-toi.com/images/scannermouse_livedemo_button.png)](https://aqueous-coast-83490.herokuapp.com)
 
